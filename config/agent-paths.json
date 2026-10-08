@@ -1,0 +1,25 @@
+{
+  "agent_project_root": "C:\\Users\\Lenovo\\Desktop\\Codex Agent合集\\小红书爆款拆解Agent",
+  "codex_skill_live_paths": {
+    "keyword_hotnote_analysis": "C:\\Users\\Lenovo\\.codex\\skills\\xiaohongshu-keyword-hotnote-analysis",
+    "keyword_report_archive": "C:\\Users\\Lenovo\\.codex\\skills\\xiaohongshu-keyword-report-archive"
+  },
+  "agent_skill_copies": {
+    "keyword_hotnote_analysis": "C:\\Users\\Lenovo\\Desktop\\Codex Agent合集\\小红书爆款拆解Agent\\skills\\codex-installed\\xiaohongshu-keyword-hotnote-analysis",
+    "keyword_report_archive": "C:\\Users\\Lenovo\\Desktop\\Codex Agent合集\\小红书爆款拆解Agent\\skills\\codex-installed\\xiaohongshu-keyword-report-archive"
+  },
+  "legacy_skill_copies": {
+    "account_analysis": "C:\\Users\\Lenovo\\Desktop\\Codex Agent合集\\小红书爆款拆解Agent\\skills\\legacy-claude-skills\\xiaohongshu-analysis-skill",
+    "report_archive": "C:\\Users\\Lenovo\\Desktop\\Codex Agent合集\\小红书爆款拆解Agent\\skills\\legacy-claude-skills\\xiaohongshu-report-archive-skill"
+  },
+  "obsidian_vault": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1",
+  "default_source_folder": "C:\\Users\\Lenovo\\Desktop\\爆款笔记采集",
+  "current_keyword": "职场新人成长手册",
+  "current_outputs": {
+    "report": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1\\关键词库分析报告\\关键词分析_职场新人成长手册_2026-07-27.md",
+    "per_note_appendix": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1\\关键词库分析报告\\关键词分析_职场新人成长手册_2026-07-27_逐篇拆解附录.md",
+    "title_library": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1\\标题库\\职场新人成长手册",
+    "cover_library": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1\\封面模版库\\职场新人成长手册",
+    "topic_library": "C:\\Users\\Lenovo\\Desktop\\小红书\\obsidian1\\选题库\\职场新人成长手册"
+  }
+}

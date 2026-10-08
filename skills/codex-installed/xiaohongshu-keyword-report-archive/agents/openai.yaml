@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书关键词报告归档"
+  short_description: "把关键词报告规律归档到 Obsidian 标题库"
+  default_prompt: "Use $xiaohongshu-keyword-report-archive to archive keyword report findings into the Xiaohongshu Obsidian libraries."

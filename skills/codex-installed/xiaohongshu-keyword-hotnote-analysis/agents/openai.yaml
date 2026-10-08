@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书关键词热门笔记分析"
+  short_description: "分析关键词热门笔记并生成 Obsidian 报告"
+  default_prompt: "Use $xiaohongshu-keyword-hotnote-analysis to analyze a Xiaohongshu keyword Excel export and generate an Obsidian report."
